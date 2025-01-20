@@ -14,7 +14,7 @@ pnpm add --save-dev @username/prettier-config
 
 ```json
 {
-    prettier: "@kennedy-osaze/prettier-config"
+  "prettier": "@kennedy-osaze/prettier-config"
 }
 ```
 
