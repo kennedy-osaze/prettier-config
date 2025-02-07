@@ -7,7 +7,7 @@ Shared [Prettier](https://prettier.io/) configuration.
 Install the package using pnpm (npm or yarn)
 
 ```bash
-pnpm add --save-dev @username/prettier-config
+pnpm add --save-dev @kennedy-osaze/prettier-config
 ```
 
 [Use it directly](https://prettier.io/docs/en/sharing-configurations#using-a-shareable-config) by adding it in your `package.json` file:
